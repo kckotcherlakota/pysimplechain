@@ -32,14 +32,3 @@ A `manager()` function is provided to interact with the blockchain via the Termi
 * **Exit:** Terminates the program and deletes the blockchain.
 
 
-## Contribute
-Hey there! New ideas are welcome: open/close issues, fork the repo and share your code with a Pull Request.
-
-Clone this project to your computer:
-
-`git clone https://github.com/EricAlcaide/pysimplechain`
-
-## Meta
-[Eric Alcaide](https://github.com/hypnopump/) – [@eric_alcaide](https://twitter.com/eric_alcaide) – ericalcaide1@gmail.com
-
-[build-image]: https://img.shields.io/travis/rust-lang/rust/master.svg "Build Status"
